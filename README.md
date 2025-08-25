@@ -30,6 +30,13 @@
 - **Bracket Matching** - Automatic bracket and tag completion
 - **Status Indicators** - Real-time connection and compilation status
 
+## **Live Image**
+<img width="1870" height="1644" alt="image" src="https://github.com/user-attachments/assets/45a45d28-c678-4099-98f1-76d9b559414a" />
+<img width="1512" height="832" alt="Screenshot 2025-08-24 at 7 05 20 PM" src="https://github.com/user-attachments/assets/af0160fb-6926-4049-8a20-3d995d1f79e6" />
+
+
+
+
 ## 🛠️ Technologies Used
 
 ### **Frontend**
@@ -51,9 +58,6 @@
 - **React Scripts** - Create React App build tools
 - **ESLint** - Code quality and consistency
 
-## 🚀 Live Demo
-
-**🌐 Production URL:** [https://codecast.vercel.app](https://codecast.vercel.app)
 
 **📱 Features to Try:**
 1. Create a new room or join an existing one
@@ -257,22 +261,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React** team for the amazing framework
 - **Bootstrap** for the responsive UI components
 
-## 📞 Support
 
-- **GitHub Issues:** [Report bugs or request features](https://github.com/yourusername/codecast/issues)
-- **Discord:** Join our community server
-- **Email:** support@codecast.dev
 
----
-
-<div align="center">
-
-**Made with ❤️ by the CodeCast Team**
-
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/codecast?style=social)](https://github.com/yourusername/codecast)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/codecast?style=social)](https://github.com/yourusername/codecast)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/codecast)](https://github.com/yourusername/codecast/issues)
-
-**⭐ Star this repository if you found it helpful!**
 
 </div>
