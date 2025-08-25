@@ -7,12 +7,6 @@
 
 > **CodeCast** is a premium, real-time code collaboration platform that enables developers to code together seamlessly. Built with modern technologies and featuring a beautiful, recruiter-worthy interface.
 
-## 🎨 Premium Design Preview
-
-![CodeCast Premium Interface](https://github.com/Yadvendra016/CodeCast/assets/91756355/dadc9f09-ef24-4c73-aa43-223f7a817f9f)
-
-*Experience the sleek, modern interface with dark theme, glass morphism effects, and professional code editor*
-
 ## ✨ Features
 
 ### 🚀 **Core Functionality**
