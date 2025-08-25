@@ -1,6 +1,6 @@
 # 🚀 CodeCast - Real-time Code Collaboration Platform
 
-[![CodeCast](https://img.shields.io/badge/CodeCast-Premium%20Design-blue?style=for-the-badge&logo=code&logoColor=white)](https://codecast.vercel.app)
+[![CodeChime](https://img.shields.io/badge/CodeCast-Premium%20Design-blue?style=for-the-badge&logo=code&logoColor=white)](https://codecast.vercel.app)
 [![React](https://img.shields.io/badge/React-18.0.0-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-20.0.0-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-4.0.0-010101?style=flat-square&logo=socket.io)](https://socket.io/)
